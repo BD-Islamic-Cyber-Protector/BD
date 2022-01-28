@@ -14,7 +14,7 @@ ingfo = (
  - facebook    : https://www.facebook.com/BICP.Team.Help.Zone
  - fanspage    : https://www.facebook.com/BICP.Team.Help.Zone
  - whatsap     : Nai
- - github      : https://github.com/BlackPanther02
+ - github      : https://github.com/∆∆∆∆∆∆
  - script name : Unknown (Facebook Bangladesh )
  - version     : 1.1
  
