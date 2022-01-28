@@ -62,7 +62,7 @@ def folder():
 IP = requests.get("https://api.ipify.org/").text
 def banner():
 	""" 
-    \033[2;95m d8888b. d888888b  .o88b. d8888b.    \033[1;97m[\033[1;94m+\033[1;97m] XX \033[1;93m: \033[1;97m Black Panther
+    \033[2;95m d8888b. d888888b  .o88b. d8888b.    \033[1;97m[\033[1;94m+\033[1;97m] XX \033[1;93m: \033[1;97m BICP
     \033[2;95m 88  `8D   `88'   d8P  Y8 88  `8D        \033[1;97m[\033[1;94m+\033[1;97m] AU \033[1;93m: \033[1;97m  [Bangladesh Islamic Cyber Protector]
     \033[2;96m 88oooY'    88    8P      88oodD'      \033[1;97m[\033[1;94m+\033[1;97m] FB \033[1;93m: \033[1;97m fb.com/********
     \033[2;96m 88~~~b.    88    8b      88~~~       \033[1;97m[\033[1;94m+\033[1;97m] Page \033[1;93m: \033[1;97m BICP.Team.Help.Zone
